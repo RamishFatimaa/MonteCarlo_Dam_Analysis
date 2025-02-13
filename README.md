@@ -9,6 +9,8 @@ This project uses Monte Carlo simulations to analyze the Benefit-Cost Ratios (BC
 - **Statistical Analysis**: Mean, standard deviation, and probability thresholds were calculated.
 
 
+### Overlayed Histograms for Dam 1 and Dam 2
+![Overlayed Histograms](MonteCarlo.png)
 ## References
 - Boardman, A. E., et al. (2018). Cost-benefit analysis: concepts and practice.
 - Palisade Corporation. (2019). Monte Carlo Simulation.
